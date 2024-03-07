@@ -27,4 +27,4 @@ Este sistema fue desarrollado por Fabian Quintero [f4-bit], cuyo código univers
 
 ## Nota final
 
-Las pruebas unitarias no fueron añadidas al ser un tema que no se ha impartido y cuyos recursos en la plataforma no están disponibles
+Las pruebas unitarias no fueron añadidas al ser un tema que no se ha impartido y cuyos recursos en la plataforma no están disponibles.
