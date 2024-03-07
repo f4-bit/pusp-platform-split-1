@@ -24,3 +24,7 @@ Este es un sistema de gestión universitaria que permite a estudiantes, proveedo
 ## Créditos
 
 Este sistema fue desarrollado por Fabian Quintero [f4-bit], cuyo código universitario es T00070606.
+
+## Nota final
+
+Las pruebas unitarias no fueron añadidas al ser un tema que no se ha impartido y cuyos recursos en la plataforma no están disponibles
